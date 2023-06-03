@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.App{
+display: flex;
+justify-content: center;
+align-items: center;
+padding-left: 1.2rem;
+color: red;
+}
+
+#tell{
+  padding-left: 6rem;
+}
+
+.nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 1.2rem;
+  margin-left:1rem;
+  color: white;
+}
+
+.main{
+  color: steelblue;
+  text-align: center;
+}
+
+.sub{
+  color: orange;
+}
+
+.footer{
+  color: white;
+  text-align: center;
+}
